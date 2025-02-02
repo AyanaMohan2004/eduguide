@@ -1,34 +1,34 @@
-# [Project Name] 🎯
+# [higher-education-website] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Hack Heroes]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Ayana Mohan] - [College of engineering pathanapuram]
+- Member 2: [Archa saji] - [College of engineering pathanapuram]
 - Member 3: [Name] - [College]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[https://ayanamohan2004.github.io/eduguide/]
 
 ### Project Description
-[2-3 lines about what your project does]
+[EduGuide is a web-based platform designed to help students choose the best higher education path based on their interests, academic strengths, and career aspirations. The platform provides personalized recommendations for courses, universities, and career paths, ensuring students make informed decisions about their future.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[Choosing the Right Higher Education Path]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[EduGuide solves the problem of confusion in higher education choices by providing a personalized, data-driven platform that guides students in selecting the best academic path.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- [HTML,CSS,JavaScript]
+- [react angular or vue.js]
 - [Libraries used]
-- [Tools used]
+- [Visual Studio Code (VS Code)]
 
 For Hardware:
 - [List main components]
@@ -36,25 +36,41 @@ For Hardware:
 - [List tools required]
 
 ### Implementation
-For Software:
+For Software:HTML,CSS,JavaScript
 # Installation
-[commands]
-
+- Clone the repository
+```
+  git clone https://github.com/yourusername/eduguide.git
+cd eduguide
+```
+-  Frontend Installation
+```
+cd frontend
+npm install
+```
 # Run
-[commands]
-
+- Start Frontend Server
+```
+cd frontend
+npm start
+```
 ### Project Documentation
-For Software:
+For Software: Frontend Overview
+The frontend is built using React.js. It consists of the following key components:
+
+- App.js: The main entry point for the React application. It includes routing and layout.
+- Components: Includes user interface components like forms, navigation bar, login modal, etc.
+- Axios API calls: The frontend communicates with the backend using Axios for CRUD operations.
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](https://drive.google.com/file/d/13V9XQMRsekKLXaQv0R6zoYWLvN7SxyFT/view?usp=drive_link)
+*Personal Preferences & Goals*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](https://drive.google.com/file/d/1sR6bzn4tJBh9K9Qgcs7ZTf4RsLwyoPXC/view?usp=drive_link)
+* Educational Background*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](https://drive.google.com/file/d/17HtFLWCKVdXJnVgIqlapl5anMxQv4WzM/view?usp=drive_link)
+*submit application*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -84,8 +100,8 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://drive.google.com/file/d/1AcpFrS378V3yGGuWLiTiIiq0PWIBMdqE/view?usp=drive_link]
+*website*
 
 # Additional Demos
 [Add any extra demo materials/links]
